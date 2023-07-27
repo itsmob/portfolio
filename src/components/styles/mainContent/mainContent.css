@@ -1,7 +1,0 @@
-.main {
-  width: 100vw;
-  /*height is 90vh coz .header is 10vh*/
-  height: 90vh;
-  overflow: auto;
-  scroll-behavior: smooth;
-}

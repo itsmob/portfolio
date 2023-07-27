@@ -1,0 +1,40 @@
+:root {
+  --c-blue: #147efb;
+  --c-dark-blue: #2d2e32;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+  font-family: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+}
+body {
+  font-size: 1.6rem;
+}
+li {
+  list-style: none;
+}
+a {
+  color: var(--c-dark-blue);
+  text-decoration: none;
+  transition: all 0.2s;
+}
+a:hover {
+  cursor: pointer;
+  color: var(--c-blue);
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 4rem;
+  max-width: 107rem;
+}
+@media (max-width: 460px) {
+  .container {
+    padding: 0 1.7rem;
+  }
+}

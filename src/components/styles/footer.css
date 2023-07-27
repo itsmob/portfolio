@@ -1,35 +1,34 @@
-.footer__container {
-  height: 13rem;
-  width: 100%;
-  padding: 5rem;
+footer {
   background-color: #2d2e32;
-  display: flex;
-  align-items: center;
+  padding: 5rem 0;
+  width: 100%;
 }
-.footer__content {
-  max-width: 107rem;
-  padding: 0 4rem;
+.footerc {
+  align-items: center;
   display: flex;
   justify-content: space-between;
-  gap: 1.5rem;
 }
-.footer__p {
+@media (max-width: 550px) {
+  .footerc {
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    text-align: center;
+  }
+}
+footer h3 {
   color: #fff;
-  font-weight: 600;
+  font-size: 1.7rem;
 }
-.footer__a--github-icon {
-  display: block;
-  border-radius: 50%;
-  width: 3rem;
-  height: 3rem;
-  background-image: url('/images/github-logo.svg');
-  background-size: cover;
-  background-color: #fff;
+.footerc__socials {
+  display: flex;
+  gap: 2rem;
 }
-.footer__a--discord-icon {
-  display: block;
-  width: 3rem;
-  height: 3rem;
-  background-image: url('/images/discord-icon.svg');
-  background-size: cover;
+.footerc__socials i {
+  color: #fff;
+  font-size: 2.3rem;
+}
+.footerc__socials i:hover {
+  transform: scale(1.2);
+  transition: all 0.2s ease-in-out;
 }

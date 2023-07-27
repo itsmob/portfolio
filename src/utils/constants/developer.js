@@ -14,7 +14,7 @@ export const DEVELOPER = {
   projects: [
     {
       id: 0,
-      name: 'Pets',
+      name: 'Pets 🐾',
       description:
         "This pets website is an online platform that allows users to get to know about cats and dogs. The website provides an interface for filtering and upload your own pet's pictures.",
       techs: ['React', 'Vanilla CSS'],
