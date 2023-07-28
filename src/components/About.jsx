@@ -9,10 +9,10 @@ export default function About() {
         <div className='container'>
           <div className='about-content'>
             <div className='img-side'>
-              <img src='/public/images/working-emoji.png' alt='emoji' className='work-emoji' />
-              <img src='/public/images/work-space.webp' alt='emoji' className='img-side__main-img' />
+              <img src='/images/working-emoji.png' alt='emoji' className='work-emoji' />
+              <img src='/images/work-space.webp' alt='emoji' className='img-side__main-img' />
               <span>
-                <img src='/public/images/front-end-developer.svg' alt='' />
+                <img src='/images/front-end-developer.svg' alt='' />
               </span>
             </div>
             <div className='text-side'>
