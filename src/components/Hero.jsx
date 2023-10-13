@@ -11,17 +11,18 @@ export default function Hero() {
             <div className='hero-main'>
               <div className='hero-text'>
                 <h1>
-                  Front-End <br />
+                  Gilberto Galindez <br />
                   Software Developer <br />
                 </h1>
                 <p>
-                  Hi, I'm Mob please welcome to this space. I'm currently developing software from Lara, Venezuela. 📍
+                  Hi, My nickname is Mob over the internet, please welcome to this space. I'm currently developing
+                  software from Lara, Venezuela. 📍
                 </p>
                 <div className='links'>
                   <a href='http://www.linkedin.com/in/gilberto-galindez-mobdev' target='_blank'>
                     <i className='fa-brands fa-linkedin fa-2xl'></i>
                   </a>
-                  <a href='https://github.com/mobvnzla' target='_blank'>
+                  <a href='https://github.com/itsmob' target='_blank'>
                     <i className='fa-brands fa-github fa-2xl'></i>
                   </a>
                 </div>

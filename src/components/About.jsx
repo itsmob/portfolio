@@ -34,8 +34,8 @@ export default function About() {
               <p>
                 Hello, my name is Gilberto but I'm aware It's hard to pronounce and remember for everyone but spanish
                 native speakers so feel free to call me Mob. If You wanna know me better please be my guest and add me
-                on{' '}
-                <a href='https://discord.com/invite/8qCEQPQqRq' target='_blank'>
+                on {/* <a href='https://discord.com/invite/8qCEQPQqRq' target='_blank'> I lost this discord acc*/}
+                <a href='https://discord.gg/N2tZMNJaJE' target='_blank'>
                   discord
                 </a>{' '}
                 so that we can talk anytime {'=)'}. <br />
