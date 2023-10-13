@@ -6,5 +6,20 @@ import reactLogo from '/images/React-logo.svg';
 import githubLogo from '/images/github-logo.svg';
 import catPic from '/images/cat.jpg';
 import taskManagerPic from '/images/TaskManagerApp.png';
+import expressLogo from '/images/expressjs_logo.svg';
+import mongodbLogo from '/images/MongoDB_Logo.svg';
+import nodejsLogo from '/images/Node.js_logo.svg';
 
-export const IMAGES = { profilePicture, htmlLogo, cssLogo, jsLogo, reactLogo, githubLogo, catPic, taskManagerPic };
+export const IMAGES = {
+  profilePicture,
+  htmlLogo,
+  cssLogo,
+  jsLogo,
+  reactLogo,
+  githubLogo,
+  catPic,
+  taskManagerPic,
+  expressLogo,
+  mongodbLogo,
+  nodejsLogo,
+};

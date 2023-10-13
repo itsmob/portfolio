@@ -9,7 +9,11 @@ export const DEVELOPER = {
     { id: 1, name: 'Css 3', imgSrc: IMAGES.cssLogo },
     { id: 2, name: 'Javascript', imgSrc: IMAGES.jsLogo },
     { id: 3, name: 'React JS', imgSrc: IMAGES.reactLogo },
+    { id: 3, name: 'Node JS', imgSrc: IMAGES.nodejsLogo },
+    { id: 3, name: 'Express JS', imgSrc: IMAGES.expressLogo },
+    { id: 3, name: 'Mongo DB', imgSrc: IMAGES.mongodbLogo },
   ],
+
   social: [{ id: 0, name: 'github', url: 'https://github.com/mobvnzla' }],
   projects: [
     {
