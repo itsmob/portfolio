@@ -23,7 +23,7 @@ export const DEVELOPER = {
         'A minimalist web app for those who want to structure their chores and keep organized their long run projects or daily task',
       techs: ['React', 'Nodejs', 'Express', 'MongoDB'],
       githubRepo: 'https://github.com/itsmob/task-manager.git',
-      liveDemo: null,
+      liveDemo: 'https://task-manager-bxllvem11-mobs-projects.vercel.app',
       img: IMAGES.taskManagerPic,
     },
     {

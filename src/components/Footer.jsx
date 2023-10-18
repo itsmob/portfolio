@@ -14,7 +14,8 @@ export default function Footer() {
               <a href='https://github.com/mobvnzla' target='_blank'>
                 <i className='fa-brands fa-github'></i>
               </a>
-              <a href='https://discord.com/invite/8qCEQPQqRq' target='_blank'>
+              {/*  <a href='https://discord.com/invite/8qCEQPQqRq' target='_blank'> */}
+              <a href='https://discord.gg/N2tZMNJaJE' target='_blank'>
                 <i className='fa-brands fa-discord'></i>
               </a>
             </div>
