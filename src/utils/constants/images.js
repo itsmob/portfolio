@@ -9,6 +9,7 @@ import taskManagerPic from '/images/TaskManagerApp.png';
 import expressLogo from '/images/expressjs_logo.svg';
 import mongodbLogo from '/images/MongoDB_Logo.svg';
 import nodejsLogo from '/images/Node.js_logo.svg';
+import chatImg from '/images/chat.png';
 
 export const IMAGES = {
   profilePicture,
@@ -22,4 +23,5 @@ export const IMAGES = {
   expressLogo,
   mongodbLogo,
   nodejsLogo,
+  chatImg,
 };

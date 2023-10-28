@@ -9,9 +9,9 @@ export const DEVELOPER = {
     { id: 1, name: 'Css 3', imgSrc: IMAGES.cssLogo },
     { id: 2, name: 'Javascript', imgSrc: IMAGES.jsLogo },
     { id: 3, name: 'React JS', imgSrc: IMAGES.reactLogo },
-    { id: 3, name: 'Node JS', imgSrc: IMAGES.nodejsLogo },
-    { id: 3, name: 'Express JS', imgSrc: IMAGES.expressLogo },
-    { id: 3, name: 'Mongo DB', imgSrc: IMAGES.mongodbLogo },
+    { id: 4, name: 'Node JS', imgSrc: IMAGES.nodejsLogo },
+    { id: 5, name: 'Express JS', imgSrc: IMAGES.expressLogo },
+    { id: 6, name: 'Mongo DB', imgSrc: IMAGES.mongodbLogo },
   ],
 
   social: [{ id: 0, name: 'github', url: 'https://github.com/mobvnzla' }],
@@ -28,6 +28,15 @@ export const DEVELOPER = {
     },
     {
       id: 1,
+      name: 'Chat 💭🗣️🤙',
+      description: 'The perfect online place to have fun with your friends',
+      techs: ['Nodejs', 'Express', 'Socket.io'],
+      githubRepo: 'https://github.com/itsmob/Chat',
+      liveDemo: 'https://my-first-chat-v2ma.onrender.com',
+      img: IMAGES.chatImg,
+    },
+    {
+      id: 2,
       name: 'Pets 🐾',
       description:
         "This pets website is an online platform that allows users to get to know about cats and dogs. The website provides an interface for filtering and upload your own pet's pictures.",
