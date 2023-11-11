@@ -12,6 +12,7 @@ export const DEVELOPER = {
     { id: 4, name: 'Node JS', imgSrc: IMAGES.nodejsLogo },
     { id: 5, name: 'Express JS', imgSrc: IMAGES.expressLogo },
     { id: 6, name: 'Mongo DB', imgSrc: IMAGES.mongodbLogo },
+    { id: 7, name: 'Socket.io', imgSrc: IMAGES.socketioLogo },
   ],
 
   social: [{ id: 0, name: 'github', url: 'https://github.com/mobvnzla' }],
@@ -37,6 +38,15 @@ export const DEVELOPER = {
     },
     {
       id: 2,
+      name: 'Chat v-2 💭🗣️🤙',
+      description: 'After my first chat I tried to build another one but this time adding react to the tech stack',
+      techs: ['Reactjs', 'Nodejs', 'Express', 'Socket.io'],
+      githubRepo: 'https://github.com/itsmob/chat-v2.git',
+      liveDemo: 'https://chat-v2-three.vercel.app',
+      img: IMAGES.chatImg,
+    },
+    {
+      id: 3,
       name: 'Pets 🐾',
       description:
         "This pets website is an online platform that allows users to get to know about cats and dogs. The website provides an interface for filtering and upload your own pet's pictures.",
