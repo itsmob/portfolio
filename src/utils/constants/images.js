@@ -1,4 +1,4 @@
-import profilePicture from '/images/profile-picture.jpg';
+import profilePicture from '/images/profile-picture.png';
 import htmlLogo from '/images/HTML5-Badge.svg';
 import cssLogo from '/images/CSS3-Badge.svg';
 import jsLogo from '/images/JavaScript-logo.svg';
