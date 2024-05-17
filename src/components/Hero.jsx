@@ -16,7 +16,7 @@ export default function Hero() {
                 </h1>
                 <p>
                   Hi, My nickname is Mob over the internet, please welcome to this space. I'm currently developing
-                  software from Lara, Venezuela. 📍
+                  software from Medellín, Colombia. 📍
                 </p>
                 <div className='links'>
                   <a href='http://www.linkedin.com/in/gilberto-galindez-mobdev' target='_blank'>
