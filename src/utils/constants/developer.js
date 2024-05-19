@@ -19,6 +19,15 @@ export const DEVELOPER = {
   projects: [
     {
       id: 0,
+      name: 'ElectraEdge Website 📊💼👨‍💼',
+      description: 'Eleva tu Proyecto Web al Máximo con la Software Factory Líder en Uruguay',
+      techs: ['Astro', 'Tailwind'],
+      githubRepo: null,
+      liveDemo: 'https://electra-edge.com/',
+      img: IMAGES.electra,
+    },
+    {
+      id: 1,
       name: 'Task manager 📊💼👨‍💼',
       description:
         'A minimalist web app for those who want to structure their chores and keep organized their long run projects or daily task',
@@ -28,7 +37,7 @@ export const DEVELOPER = {
       img: IMAGES.taskManagerPic,
     },
     {
-      id: 1,
+      id: 2,
       name: 'Chat 💭🗣️🤙',
       description: 'The perfect online place to have fun with your friends',
       techs: ['Nodejs', 'Express', 'Socket.io'],
@@ -37,7 +46,7 @@ export const DEVELOPER = {
       img: IMAGES.chatImg,
     },
     {
-      id: 2,
+      id: 3,
       name: 'Chat v-2 💭🗣️🤙',
       description: 'After my first chat I tried to build another one but this time adding react to the tech stack',
       techs: ['Reactjs', 'Nodejs', 'Express', 'Socket.io'],
@@ -46,7 +55,7 @@ export const DEVELOPER = {
       img: IMAGES.chatImg,
     },
     {
-      id: 3,
+      id: 4,
       name: 'Pets 🐾',
       description:
         "This pets website is an online platform that allows users to get to know about cats and dogs. The website provides an interface for filtering and upload your own pet's pictures.",

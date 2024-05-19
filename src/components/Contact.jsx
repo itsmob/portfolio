@@ -17,7 +17,7 @@ export default function Contact() {
                 </span>
                 <div className='contact__info'>
                   <h3>Location</h3>
-                  <p>Cabudare, Venezuela</p>
+                  <p>Medellín, Colombia</p>
                 </div>
               </div>
             </div>

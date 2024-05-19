@@ -11,6 +11,7 @@ import mongodbLogo from '/images/MongoDB_Logo.svg';
 import nodejsLogo from '/images/Node.js_logo.svg';
 import chatImg from '/images/chat.png';
 import socketioLogo from '/images/socket-io.svg';
+import electra from '/images/electra3.png';
 
 export const IMAGES = {
   profilePicture,
@@ -26,4 +27,5 @@ export const IMAGES = {
   nodejsLogo,
   chatImg,
   socketioLogo,
+  electra,
 };
