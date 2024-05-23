@@ -38,6 +38,15 @@ export const DEVELOPER = {
     },
     {
       id: 2,
+      name: 'e-commerce 👨‍💼📊💼',
+      description: 'A minimalist e-commerce',
+      techs: ['React', 'Vanilla CSS'],
+      githubRepo: null,
+      liveDemo: 'https://minimalist-e-commerce.vercel.app/',
+      img: IMAGES.ecommerce,
+    },
+    {
+      id: 3,
       name: 'Chat 💭🗣️🤙',
       description: 'The perfect online place to have fun with your friends',
       techs: ['Nodejs', 'Express', 'Socket.io'],
@@ -46,7 +55,7 @@ export const DEVELOPER = {
       img: IMAGES.chatImg,
     },
     {
-      id: 3,
+      id: 4,
       name: 'Chat v-2 💭🗣️🤙',
       description: 'After my first chat I tried to build another one but this time adding react to the tech stack',
       techs: ['Reactjs', 'Nodejs', 'Express', 'Socket.io'],
@@ -55,7 +64,7 @@ export const DEVELOPER = {
       img: IMAGES.chatImg,
     },
     {
-      id: 4,
+      id: 5,
       name: 'Pets 🐾',
       description:
         "This pets website is an online platform that allows users to get to know about cats and dogs. The website provides an interface for filtering and upload your own pet's pictures.",
