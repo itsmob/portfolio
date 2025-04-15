@@ -19,15 +19,25 @@ export const DEVELOPER = {
   projects: [
     {
       id: 0,
+      name: 'Bank 📊💼👨‍💼',
+      description: 'My bad boy project so far',
+      techs: ['AWS', 'Amplify', 'React', 'Tailwind'],
+      githubRepo: null,
+      liveDemo: 'https://main.d2oti47qx0gosa.amplifyapp.com/',
+      img: IMAGES.bank,
+    },
+    {
+      id: 1,
       name: 'ElectraEdge Website 📊💼👨‍💼',
-      description: 'Eleva tu Proyecto Web al Máximo con la Software Factory Líder en Uruguay',
+      description:
+        'Eleva tu Proyecto Web al Máximo con la Software Factory Líder en Uruguay',
       techs: ['Astro', 'Tailwind'],
       githubRepo: null,
       liveDemo: 'https://electra-edge.com/',
       img: IMAGES.electra,
     },
     {
-      id: 1,
+      id: 2,
       name: 'Task manager 📊💼👨‍💼',
       description:
         'A minimalist web app for those who want to structure their chores and keep organized their long run projects or daily task',
@@ -37,7 +47,7 @@ export const DEVELOPER = {
       img: IMAGES.taskManagerPic,
     },
     {
-      id: 2,
+      id: 3,
       name: 'e-commerce 👨‍💼📊💼',
       description: 'A minimalist e-commerce',
       techs: ['React', 'Vanilla CSS'],
@@ -46,7 +56,7 @@ export const DEVELOPER = {
       img: IMAGES.ecommerce,
     },
     {
-      id: 3,
+      id: 4,
       name: 'Chat 💭🗣️🤙',
       description: 'The perfect online place to have fun with your friends',
       techs: ['Nodejs', 'Express', 'Socket.io'],
@@ -55,16 +65,17 @@ export const DEVELOPER = {
       img: IMAGES.chatImg,
     },
     {
-      id: 4,
+      id: 5,
       name: 'Chat v-2 💭🗣️🤙',
-      description: 'After my first chat I tried to build another one but this time adding react to the tech stack',
+      description:
+        'After my first chat I tried to build another one but this time adding react to the tech stack',
       techs: ['Reactjs', 'Nodejs', 'Express', 'Socket.io'],
       githubRepo: 'https://github.com/itsmob/chat-v2.git',
       liveDemo: 'https://chat-v2-three.vercel.app',
       img: IMAGES.chatImg,
     },
     {
-      id: 5,
+      id: 6,
       name: 'Pets 🐾',
       description:
         "This pets website is an online platform that allows users to get to know about cats and dogs. The website provides an interface for filtering and upload your own pet's pictures.",

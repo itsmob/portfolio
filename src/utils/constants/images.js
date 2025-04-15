@@ -13,6 +13,7 @@ import chatImg from '/images/chat.png';
 import socketioLogo from '/images/socket-io.svg';
 import electra from '/images/electra3.png';
 import ecommerce from '/images/ecomerce.png';
+import bank from '/images/bank.svg';
 
 export const IMAGES = {
   profilePicture,
@@ -30,4 +31,5 @@ export const IMAGES = {
   socketioLogo,
   electra,
   ecommerce,
+  bank,
 };
